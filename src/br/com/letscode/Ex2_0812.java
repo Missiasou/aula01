@@ -15,6 +15,7 @@ public class Ex2_0812 {
         System.out.println("Digite o número de turmas: ");
         turmas = input.nextInt();
         System.out.println("Digite a quantidade de alunos: ");
+
         quantidade = input.nextInt();
 
         matrixTurmas = new double[turmas][quantidade];
